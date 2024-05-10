@@ -1,5 +1,5 @@
-## Enchantment Art Extender
-This is a framework that allows for more interesting visuals for enchanted weapons in TESV: Skyrim Special Edition. It achieves this by silently adding specific spells with hit arts. Each of these "swaps" is defined in a configuration file.
+## Blank DLL
+The DLL built with this project is just named "HandToHand". It (should) do nothing.
 
 ## Building
 ### Requirements:
